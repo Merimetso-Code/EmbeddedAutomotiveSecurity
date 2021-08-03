@@ -10,7 +10,11 @@ For this exercise you can create the S32DS project using one of the following tw
 
 * Run the S32DS software and then using the following pull down menus create a project.
   * File -> New -> S32DS Project From Example 
-  * Select the Hello Project (Turns on the DS4, DS6 and DS8 LED using differenet cores)
+  * Select the Hello Project (Turns on the DS4, DS6 and DS8 LED using differenet cores) from the S32DS Example projects
 * Download the following and then uncompress and open the project.
   * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
 
+Once you have executed the S32DS software and created/loaded the edit the main function in the file hello_Z4_1.c. 
+```c
+int a;
+```
