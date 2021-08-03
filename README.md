@@ -42,7 +42,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Real-world car hacking: How to source parts, how not to tear apart your car, where to find documentation and tools
 * Exercise #9: Understanding and doodling schematics
 * Building benches and labs
-* Exercise #10: Exploiting the bugs you found (or didn't find, we'll share and compare)
+* Exercise #10: Exploiting the bugs you found
 * Q&A / Final Wrap-up
 
 ## Contact Details
