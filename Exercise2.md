@@ -27,9 +27,10 @@ int main(void)
 }
 ```
 Now edit the while loop and replace it with an infinite for loop. Within that for-loop define an 32-bit integer and then:
-* Sets it to zero
-* Adds one to it
-* Sets it to zero again.
+* Sets the integer to zero;
+* Adds 32768 to it;
+* Sets it to zero again;
+* Subtract 1 from it.
 
 Once you have down this compile project and download the project to the development board and reboot the developmente board.
 
