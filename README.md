@@ -12,3 +12,30 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Automotive network topologies
 * Exercise #1: Test communications with an ECU
 * Q&A / Wrap-up Session 0
+
+## Session 2
+
+* Detailed explanation of CAN, CAN-FD and LIN buses
+* Exercise #5: Reverse engineering functionality and finding bugs
+* Automotive Ethernet, Gateways and Ethernet switches as isolators
+* Exercises #6: Mapping and understanding attack surface
+* Q&A / Wrap-up Session 2
+
+## Session 3
+
+* Attack planning/Chaining vulnerabilities
+* Exercises #7: Reverse engineering functionality and finding bugs (continued)
+* FlexRay
+* Exercise #8: FlexRay
+* Q&A / Wrap-up Session 3
+
+## Session 4
+* Real-world car hacking: How to source parts, how not to tear apart your car, where to find documentation and tools
+* Exercise #9: Understanding and doodling schematics
+* Building benches and labs
+* Exercise #10: Exploiting the bugs you found (or didn't find, we'll share and compare)
+* Q&A / Final Wrap-up
+
+## Contact Details
+
+For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
