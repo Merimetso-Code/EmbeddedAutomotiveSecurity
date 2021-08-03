@@ -4,7 +4,7 @@ The goal of this execise is to disasemble a ECU Flash Image. To do this we will 
 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 
-''''
+''''dos
 c:\SysGCC\powerpc-eabi\bin>dir
  Volume in drive C has no label.
  Volume Serial Number is 70FA-A8D5
