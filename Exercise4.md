@@ -62,7 +62,9 @@ To help you with your analysis you may find the following tools of use.
 * powerpc-eabi-readelf.exe
     * This tool can be used examine the structure of an ELF executable. This includes the ability to examine the ELF headers and ELF sections.
 * powerpc-eabi-strings.exe
+    * This tool can be used to identify the strings contained within a single file. 
 * powerpc-eabi-objdump.exe
+    * This tool can used to disassemble the contents of an executable down into PowerPC machine code. 
 
 ## Contact Details
 
