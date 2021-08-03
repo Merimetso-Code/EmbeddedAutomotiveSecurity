@@ -1,6 +1,6 @@
 # Exercise 2 - Build your own ECU firmware (using S32 Design Studio)
 
-The goal of this exceise is to Build your own ECU firmware (using S32 Design Studio). The first stage of this is to download and stann the S32 Power PC Design Studio. To acheive this please click on the following link and download and install the S32DS software. Please rember that when installing the S32DS software you will need to access the Licence Keys tab and web page and obtain a licence key.
+The goal of this exceise is to Build/Install your own ECU firmware (using S32 Design Studio). The first stage of this is to download and install the S32 Power PC Design Studio. To acheive this please click on the following link and download and install the S32DS software. Please remember that when installing the S32DS software you will need to access the Licence Keys tab on then S32DS download web page and obtain a valid licence key.
 
 * https://www.nxp.com/design/software/development-software/s32-design-studio-ide/s32-design-studio-for-power-architecture:S32DS-PA?&tab=Design_Tools_Tab
 
