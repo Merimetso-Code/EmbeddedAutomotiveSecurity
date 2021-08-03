@@ -60,7 +60,7 @@ The tool set gives us the ability to compile and analyse software in the PowerPC
 To help you with your analysis you may find the following tools of use.
 
 * powerpc-eabi-readelf.exe
- * This tool can be used 
+    * This tool can be used 
 * powerpc-eabi-strings.exe
 * powerpc-eabi-objdump.exe
 
