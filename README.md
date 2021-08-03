@@ -45,6 +45,14 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Exercise #10: Exploiting the bugs you found
 * Q&A / Final Wrap-up
 
+## Development Details
+
+The development board that we are going to be using for this class is the NXP MPC5748G Development Board. Information about this board can be located at the following URL:
+
+* https://www.nxp.com/design/development-boards/automotive-development-platforms/mpc57xx-mcu-platforms/mpc5748g-development-board-for-secure-gateway:DEVKIT-MPC5748G 
+
+It is expected that all students have a latop/computer running an up to date version of the Micorosft Windows 10 Operating System.
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
