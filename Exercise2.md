@@ -31,7 +31,20 @@ Now edit the while loop and replace it with a for loop that counts that defines 
 * Adds one to it
 * Sets it to zero again.
 
-Once you have down this compile project and download the project to the developmentboard.
+
+
+Once you have down this compile project and download the project to the development board and reboot the developmente board.
+
+# Advanced Exercise 2
+
+Once you have compiled and downloaded the project onto the development board then use the S32DS debugger to step through the source code and execute it one command at a time. 
 
 # Tips and Hints
-Information and help on progamming in C caan be found on the following links
+Information and help on progamming in C can be found on the following links:
+* [Programming in C](https://beginnersbook.com/2014/01/c-program-structure/)
+* [C Tutorial](https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv)
+* [Loops in C](https://www.tutorialspoint.com/cprogramming/c_loops.htm)
+
+## Contact Details
+
+For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
