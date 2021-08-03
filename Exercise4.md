@@ -55,6 +55,13 @@ The tool set gives us the ability to compile and analyse software in the PowerPC
 * [ECU Flash Image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.bin)
 * [ECU ELF File](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.elf)
 
+When analysing the Flash Image and ECU ELF File you may find teh following questions useful to consider:
+
+* What strings are contained in the file and what does this tell us about the file.
+* What functional dependancies exist within the files.
+* What is the structure of the executable and what function does the executable make usse of.
+* What does the disassemble of the file tells us.
+
 ## Useful Tools
 
 To help you with your analysis you may find the following tools of use.
