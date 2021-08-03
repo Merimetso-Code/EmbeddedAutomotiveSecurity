@@ -4,6 +4,8 @@ The goal of this execise is to disasemble a ECU Flash Image. To do this we will 
 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 
+Once you have installed the GNU Tool Chain you should have somthing that look like the following:
+
 ```
 c:\SysGCC\powerpc-eabi\bin>dir
  Volume in drive C has no label.
@@ -47,6 +49,8 @@ c:\SysGCC\powerpc-eabi\bin>dir
 
 c:\SysGCC\powerpc-eabi\bin>
 ```
+
+The tool set gives us the ability to compile and analyse software in the PowerPC format. The GCC compile will produce files in the [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) format. 
 
 ## Contact Details
 
