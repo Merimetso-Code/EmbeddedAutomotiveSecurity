@@ -50,7 +50,10 @@ c:\SysGCC\powerpc-eabi\bin>dir
 c:\SysGCC\powerpc-eabi\bin>
 ```
 
-The tool set gives us the ability to compile and analyse software in the PowerPC format. The GCC compile will produce files in the [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) format. 
+The tool set gives us the ability to compile and analyse software in the PowerPC format. The GCC compile will produce files in the [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) format.  For this exercise you are goign to be analysing the following files.
+
+* [ECU Flash Image]()
+* [ECU ELF File]()
 
 ## Contact Details
 
