@@ -14,7 +14,7 @@ For this exercise you can create the S32DS project using one of the following tw
 * Download the following and then uncompress and open the project.
   * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
 
-Once you have executed the S32DS software and created/loaded the project, then can you edit the main function in the file hello_Z4_1.c. In the main function 
+When you have installed the S32DS studio, then connect the MPC5748G Development Board to your laptop. Once you have executed the S32DS software and created/loaded the project, then can you edit the main function in the file hello_Z4_1.c. In the main function you should see teh following:
 ```c
 int main(void)
 {
@@ -26,3 +26,12 @@ int main(void)
         return 0;
 }
 ```
+Now edit the while loop and replace it with a for loop that counts that defines an integer and then:
+* Sets it to zero
+* Adds one to it
+* Sets it to zero again.
+
+Once you have down this compile project and download the project to the developmentboard.
+
+# Tips and Hints
+Information and help on progamming in C caan be found on the following links
