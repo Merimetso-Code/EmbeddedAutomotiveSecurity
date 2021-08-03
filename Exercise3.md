@@ -10,3 +10,8 @@ For those students interested in justing JTAG I would rewcoemend the following L
 For those students interested in justing JTAG I would rewcoemend the following Videos.
 
 * [What is JTAG](https://www.youtube.com/watch?v=TlWlLeC5BUs)
+* [JTAG TAP Controller](https://www.youtube.com/watch?v=PhaqHKyAvR4)
+
+## Contact Details
+
+For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
