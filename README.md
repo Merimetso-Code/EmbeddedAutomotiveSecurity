@@ -4,7 +4,7 @@ This training is geared towards offensive security researchers, penetration test
 
 In contrast to other trainings, we will not look into infotainment units as we see them as too similar to other embedded and mobile systems. Rather we will concentrate on the specifics of automotive embedded systems. To help with this process we will show the attendees how to snapshot and emulate systems to be faster in assessing them.
 
-## Session 1
+## Session 0
 
 * Classes of ECUs in cars
 * Protocols in use in cars
@@ -12,6 +12,15 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Automotive network topologies
 * Exercise #1: Test communications with an ECU
 * Q&A / Wrap-up Session 0
+
+## Session 1
+* AUTomotive Open System ARchitecture (AUTOSAR) Basics
+* Exercise #2: Build your own ECU firmware (using S32 Design Studio)
+* Obtaining ECU firmware and memory
+* Exercise #3: Use JTAG to snapshot a device for emulation
+* Speeding up your analysis using emulation
+* Exercise #4: Disassemble and emulate an ECU flash image
+* Q&A / Wrap-up Session 1
 
 ## Session 2
 
