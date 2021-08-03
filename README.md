@@ -4,6 +4,11 @@ This training is geared towards offensive security researchers, penetration test
 
 In contrast to other trainings, we will not look into infotainment units as we see them as too similar to other embedded and mobile systems. Rather we will concentrate on the specifics of automotive embedded systems. To help with this process we will show the attendees how to snapshot and emulate systems to be faster in assessing them.
 
-## EmbeddedAutomotiveSecurity
+## Session 1
 
-ddd
+* Classes of ECUs in cars
+* Protocols in use in cars
+* Exercise #0: Hypothesising potential vulnerabilities by reading standards
+* Automotive network topologies
+* Exercise #1: Test communications with an ECU
+* Q&A / Wrap-up Session 0
