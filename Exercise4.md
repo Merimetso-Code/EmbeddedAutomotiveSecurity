@@ -52,8 +52,17 @@ c:\SysGCC\powerpc-eabi\bin>
 
 The tool set gives us the ability to compile and analyse software in the PowerPC format. The GCC compile will produce files in the [ELF](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format) format.  For this exercise you are goign to be analysing the following files.
 
-* [ECU Flash Image]()
-* [ECU ELF File]()
+* [ECU Flash Image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.bin)
+* [ECU ELF File](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.elf)
+
+## Useful Tools
+
+To help you with your analysis you may find the following tools of use.
+
+* powerpc-eabi-readelf.exe
+ * This tool can be used 
+* powerpc-eabi-strings.exe
+* powerpc-eabi-objdump.exe
 
 ## Contact Details
 
