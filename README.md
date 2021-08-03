@@ -51,7 +51,7 @@ The development board that we are going to be using for this class is the NXP MP
 
 * https://www.nxp.com/design/development-boards/automotive-development-platforms/mpc57xx-mcu-platforms/mpc5748g-development-board-for-secure-gateway:DEVKIT-MPC5748G 
 
-It is expected that all students have a latop/computer running an up to date version of the Micorosft Windows 10 Operating System.
+It is expected that all students have a latop/computer running an up to date version of the Microsoft Windows 10 Operating System.
 
 ## Contact Details
 
