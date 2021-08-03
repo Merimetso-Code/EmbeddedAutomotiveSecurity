@@ -12,5 +12,5 @@ For this exercise you can create the S32DS project using one of the following tw
   * File -> New -> Project From Example 
   * Select the Hello Project 
 * Download the following and then uncompress and open the project.
-  * [Exercise 2 - S32DS Project](http://github.com)
-EXERCISE2.7z
+  * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
+
