@@ -19,7 +19,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Obtaining ECU firmware and memory
 * [Exercise #3: Use JTAG to snapshot a device for emulation](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise3.md) 
 * Speeding up your analysis using emulation
-* [Exercise #4: Disassemble and emulate an ECU flash image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.md)
+* [Exercise #4: Disassemble a ECU flash image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.md)
 * Q&A / Wrap-up Session 1
 
 ## Session 2
