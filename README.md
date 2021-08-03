@@ -15,7 +15,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 
 ## Session 1
 * AUTomotive Open System ARchitecture (AUTOSAR) Basics
-* Exercise #2: Build your own ECU firmware (using S32 Design Studio)
+* [Exercise #2: Build your own ECU firmware (using S32 Design Studio](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise2.md) 
 * Obtaining ECU firmware and memory
 * Exercise #3: Use JTAG to snapshot a device for emulation
 * Speeding up your analysis using emulation
