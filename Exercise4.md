@@ -66,6 +66,11 @@ To help you with your analysis you may find the following tools of use.
 * powerpc-eabi-objdump.exe
     * This tool can used to disassemble the contents of an executable down into PowerPC machine code. 
 
+## Other Tools
+
+You may find other tools such as HEX editors useful in analysing the Flash Image and ELF File
+
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
