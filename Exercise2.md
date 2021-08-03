@@ -9,8 +9,8 @@ You may also want to download and access the Installation Guide and Release note
 For this exercise you can create the S32DS project using one of the following two methods:
 
 * Run the S32DS software and then using the following pull down menus create a project.
-  * File -> New -> Project From Example 
-  * Select the Hello Project 
+  * File -> New -> S32DS Project From Example 
+  * Select the Hello Project (Turns on the DS4, DS6 and DS8 LED using differenet cores)
 * Download the following and then uncompress and open the project.
   * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
 
