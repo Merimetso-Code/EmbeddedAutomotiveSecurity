@@ -4,7 +4,49 @@ The goal of this execise is to disasemble a ECU Flash Image. To do this we will 
 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 
+''''
+c:\SysGCC\powerpc-eabi\bin>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 70FA-A8D5
 
+ Directory of c:\SysGCC\powerpc-eabi\bin
+
+29/07/2021  17:36    <DIR>          .
+29/07/2021  17:36    <DIR>          ..
+29/07/2021  17:36           205,838 make.exe
+29/07/2021  17:36           774,670 powerpc-eabi-addr2line.exe
+29/07/2021  17:36           799,246 powerpc-eabi-ar.exe
+29/07/2021  17:36         1,178,126 powerpc-eabi-as.exe
+29/07/2021  17:36           773,134 powerpc-eabi-c++.exe
+29/07/2021  17:36           773,134 powerpc-eabi-c++filt.exe
+29/07/2021  17:36           772,110 powerpc-eabi-cpp.exe
+29/07/2021  17:36            58,382 powerpc-eabi-elfedit.exe
+29/07/2021  17:36             8,611 powerpc-eabi-embedspu
+29/07/2021  17:36           773,134 powerpc-eabi-g++.exe
+29/07/2021  17:36           770,062 powerpc-eabi-gcc-4.9.0.exe
+29/07/2021  17:36            53,774 powerpc-eabi-gcc-ar.exe
+29/07/2021  17:36            53,774 powerpc-eabi-gcc-nm.exe
+29/07/2021  17:36            53,774 powerpc-eabi-gcc-ranlib.exe
+29/07/2021  17:36           770,062 powerpc-eabi-gcc.exe
+29/07/2021  17:36           462,350 powerpc-eabi-gcov.exe
+29/07/2021  17:36         7,524,366 powerpc-eabi-gdb.exe
+29/07/2021  17:36           840,718 powerpc-eabi-gprof.exe
+29/07/2021  17:36         1,245,198 powerpc-eabi-ld.bfd.exe
+29/07/2021  17:36         1,245,198 powerpc-eabi-ld.exe
+29/07/2021  17:36           784,398 powerpc-eabi-nm.exe
+29/07/2021  17:36           940,046 powerpc-eabi-objcopy.exe
+29/07/2021  17:36         1,219,086 powerpc-eabi-objdump.exe
+29/07/2021  17:36           799,246 powerpc-eabi-ranlib.exe
+29/07/2021  17:36           438,798 powerpc-eabi-readelf.exe
+29/07/2021  17:36         3,501,056 powerpc-eabi-run.exe
+29/07/2021  17:36           776,206 powerpc-eabi-size.exe
+29/07/2021  17:36           774,670 powerpc-eabi-strings.exe
+29/07/2021  17:36           940,046 powerpc-eabi-strip.exe
+              29 File(s)     29,309,213 bytes
+               2 Dir(s)  754,428,510,208 bytes free
+
+c:\SysGCC\powerpc-eabi\bin>
+''''
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
