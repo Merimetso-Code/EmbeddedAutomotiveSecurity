@@ -14,7 +14,20 @@ For this exercise you can create the S32DS project using one of the following tw
 * Download the following and then uncompress and open the project.
   * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
 
-Once you have executed the S32DS software and created/loaded the edit the main function in the file hello_Z4_1.c. 
+Once you have executed the S32DS software and created/loaded the project, then can you edit the main function in the file hello_Z4_1.c. In the main function 
 ```c
-int a;
+int main(void)
+{
+        xcptn_xmpl ();              /* Configure and Enable Interrupts */
+
+        memory_config_16mhz();          /* Configure wait states, flash master access, etc. */
+
+        SIUL2.MSCR[PA10].B.OBE = 1;  /* Pad PA10 (10): OBE=1. On EVB active low DS4 LED */
+
+        clock_out_FIRC();           /* Pad PG7 = CLOCKOUT = FIRC / 10 */
+
+        while(1);
+
+        return 0;
+}
 ```
