@@ -68,8 +68,9 @@ To help you with your analysis you may find the following tools of use.
 
 ## Other Tools
 
-You may find other tools such as HEX editors useful in analysing the Flash Image and ELF File
+You may find other tools such as HEX editors useful in analysing the [Flash Image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.bin) and the [ECU ELF File](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.elf)
 
+* The [HxD](https://mh-nexus.de/en/hxd/) is a freeware hex editor that allows for the searching and analysis of file.
 
 ## Contact Details
 
