@@ -18,16 +18,11 @@ Once you have executed the S32DS software and created/loaded the project, then c
 ```c
 int main(void)
 {
-        xcptn_xmpl ();              /* Configure and Enable Interrupts */
-
-        memory_config_16mhz();          /* Configure wait states, flash master access, etc. */
-
-        SIUL2.MSCR[PA10].B.OBE = 1;  /* Pad PA10 (10): OBE=1. On EVB active low DS4 LED */
-
-        clock_out_FIRC();           /* Pad PG7 = CLOCKOUT = FIRC / 10 */
-
+        xcptn_xmpl ();                  /* Configure and Enable Interrupts                    */
+        memory_config_16mhz();          /* Configure wait states, flash master access, etc.   */
+        SIUL2.MSCR[PA10].B.OBE = 1;     /* Pad PA10 (10): OBE=1. On EVB active low DS4 LED    */
+        clock_out_FIRC();               /* Pad PG7 = CLOCKOUT = FIRC / 10                     */
         while(1);
-
         return 0;
 }
 ```
