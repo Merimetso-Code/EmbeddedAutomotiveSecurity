@@ -39,7 +39,7 @@ ELF Header:
 C:\Users\Andrew Blyth\Desktop>
 ```
 
-Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. Then you use the S23DS debugger and execute to Elf file to validate your finds.
+Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. Then you can use the S23DS debugger to execute the Elf file aand validate your finds.
 
 * [Execise 5 ELF Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.7z)
 
