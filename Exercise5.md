@@ -7,3 +7,7 @@ The goal of this exercise is to explore how we can use various tools such as rev
 In this exercise you are going to use the GNU Tool Chain to identify the functionality of the following:
 
 * [ELF Exercise](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.elf)
+
+# # Contact Details
+
+For further information and questions please contact Dr Andrew Blyth, PhD. ablyth@merimetso.net
