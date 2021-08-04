@@ -39,7 +39,13 @@ ELF Header:
 C:\Users\Andrew Blyth\Desktop>
 ```
 
-Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. Then you can use the S23DS debugger to execute the Elf file aand validate your finds.
+Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. When reverse engineering key questions to focus on are:
+
+* What is the role/function of the software, What purpose dies it fulfill?
+* What functiion is the executable making use of and are there any debug symbols conatined in the file?
+* What strings/text-data is contained in the file and what does this tells us about the executable?
+
+Then you can use the S23DS debugger to execute the Elf file aand validate your finds.
 
 * [Execise 5 ELF Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.7z)
 
