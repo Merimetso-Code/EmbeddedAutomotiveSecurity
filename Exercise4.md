@@ -1,6 +1,6 @@
 # Exercise 4 - Disassemble a ECU flash image
 
-The goal of this execise is to disasemble a ECU Flash Image. To do this we will need to download and install the GNU PowerPC tool chain. The GNU PowerPC Tool Chain for Microsoft Windows 10 can be located at the following. It should be noted that S32 Design Studion (S32DS) make usse of the GNU ttol chain.
+The goal of this execise is to disasemble a ECU Flash Image. To do this we will need to download and install the GNU PowerPC tool chain. The GNU PowerPC Tool Chain for Microsoft Windows 10 can be located at the following. It should be noted that S32 Design Studion (S32DS) make usse of the GNU tool chain.
 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 
