@@ -33,16 +33,16 @@ In contrast to other trainings, we will not look into infotainment units as we s
 ## Session 3
 
 * Attack planning/Chaining vulnerabilities
-* Exercises #7: Reverse engineering functionality and finding bugs (continued)
+* [Exercises #7: Reverse engineering functionality and finding bugs (continued)](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise7.md)
 * FlexRay
-* Exercise #8: FlexRay
+* [Exercise #8: FlexRay](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise8.md)
 * Q&A / Wrap-up Session 3
 
 ## Session 4
 * Real-world car hacking: How to source parts, how not to tear apart your car, where to find documentation and tools
-* Exercise #9: Understanding and doodling schematics
+* [Exercise #9: Understanding and doodling schematics](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise9.md)
 * Building benches and labs
-* Exercise #10: Exploiting the bugs you found
+* [Exercise #10: Exploiting the bugs you found](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise10.md)
 * Q&A / Final Wrap-up
 
 ## Development Details
