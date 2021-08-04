@@ -22,7 +22,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * [Exercise #4: Disassemble a ECU flash image](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise4.md)
 * Q&A / Wrap-up Session 1
 
-## Session 2
+## Session 2 
 
 * Detailed explanation of I2C, CAN, CAN-FD and LIN buses
 * [Exercise #5: Reverse engineering functionality and finding bugs](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.md) 
