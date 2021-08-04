@@ -13,7 +13,7 @@ In this exercise you are going to use the GNU Tool Chain to identify the functio
 The [Exercise5 ELF Binary](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.elf) has been created using S32DS for the MPC5748G Development Board. 
 
 
-
+```
 C:\Users\Andrew Blyth\Desktop>C:\SysGCC\powerpc-eabi\bin\powerpc-eabi-readelf.exe -h Exercise5.elf
 ELF Header:
   Magic:   7f 45 4c 46 01 02 01 00 00 00 00 00 00 00 00 00
@@ -37,6 +37,7 @@ ELF Header:
   Section header string table index: 28
 
 C:\Users\Andrew Blyth\Desktop>
+```
 
 ## Contact Details
 
