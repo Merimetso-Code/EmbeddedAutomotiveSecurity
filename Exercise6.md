@@ -55,10 +55,13 @@ C:\Projects\flexcan_transmit\flexcan_transmit_Z4_0\src>
 
 Once you have programmed both boards so that they are executing the required software we can now examine the system from a holistic perspective for vulnerabilities. In partcular we examining the attack surface fo a system you shoudl ask the following questions:
 
-* Does teh hardware contain any 
+* Does the hardware contain any 
     * data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
     * debug/programming ports such as I2C, SPI and JTAG and how can these ports be accessed.
-* 
+* Does the software conatin any vulnerabilities, such as
+    * Can I write more that 8 bights of data to the CAN bus
+    * I am using vulnerability functions such as strcpy()
+    * Can I modify the data that is being transmitted over the CAN bus 
  
 ## Advanced Topics
 
