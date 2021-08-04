@@ -6,11 +6,52 @@ The goalof this exercise is t get us to think about how we might exececute a att
 * [MPC5748G Development Board 2](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Recieve.7z)
 
 Please note that for the following project we are making use of the Z4_0 core and that source code for this project can be located under that core. So for the CAN bus recieve project we should have the following
+```
+C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 70FA-A8D5
 
+ Directory of C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src
+
+04/08/2021  15:08    <DIR>          .
+04/08/2021  15:08    <DIR>          ..
+11/11/2019  14:58             5,972 can.c
+11/11/2019  14:58             1,974 flashrchw.c
+11/11/2019  14:58             2,965 intc_sw_handlers.S
+11/11/2019  14:58            46,266 intc_SW_mode_isr_vectors_MPC5748G.c
+11/11/2019  14:58             3,219 main_Z4_0.c
+11/11/2019  14:58             3,758 mode.c
+11/11/2019  14:58            10,623 MPC57xx__Interrupt_Init.c
+11/11/2019  14:58             2,656 Vector.c
+               8 File(s)         77,433 bytes
+               2 Dir(s)  754,129,899,520 bytes free
+
+C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>
+```
 
 And for the CAN bus transmit project we should have the following
+```
+C:\Projects\flexcan_transmit\flexcan_transmit_Z4_0\src>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 70FA-A8D5
 
+ Directory of C:\Projects\flexcan_transmit\flexcan_transmit_Z4_0\src
 
+04/08/2021  15:08    <DIR>          .
+04/08/2021  15:08    <DIR>          ..
+11/11/2019  14:58             5,972 can.c
+11/11/2019  14:58             1,974 flashrchw.c
+11/11/2019  14:58             2,965 intc_sw_handlers.S
+11/11/2019  14:58            46,266 intc_SW_mode_isr_vectors_MPC5748G.c
+11/11/2019  14:58             3,219 main_Z4_0.c
+11/11/2019  14:58             3,758 mode.c
+11/11/2019  14:58            10,623 MPC57xx__Interrupt_Init.c
+11/11/2019  14:58             2,656 Vector.c
+               8 File(s)         77,433 bytes
+               2 Dir(s)  754,129,899,520 bytes free
+
+C:\Projects\flexcan_transmit\flexcan_transmit_Z4_0\src>
+```
 
 Once you have programmed both boards so that they are executing the required software we can now examine the system from a holistic perspective for vulnerabilities. In partcular we examining the attack surface fo a system you shoudl ask the following questions:
 
