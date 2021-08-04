@@ -5,7 +5,7 @@ The goalof this exercise is t get us to think about how we might exececute a att
 * [MPC5748G Development Board 1](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Transmit.7z)
 * [MPC5748G Development Board 2](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Recieve.7z)
 
-Please note that for the following project we are making use of the Z4_0 core and that source code for this project can be located under that core. So for the CAN bus recieve project we should have the following
+Please note that for the following project we are making use of the Z4_0 core and that source code for this project can be located under that core. So for the CAN bus recieve project we should have the following:
 ```
 C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
  Volume in drive C has no label.
