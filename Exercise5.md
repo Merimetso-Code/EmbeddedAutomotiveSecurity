@@ -10,7 +10,7 @@ In this exercise you are going to use the GNU Tool Chain to identify the functio
 
 ## Hints and Tips
 
-The [Exercise5 ELF Binary](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.elf) has been created using S32DS for the MPC5748G Development Board. 
+The [Exercise5 ELF Binary](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.elf) has been created using S32DS for the MPC5748G Development Board. The ELH Header for Excercise 5 is as follows, and from this we can see that it is a Power PC 32 Bit Big Edian File.
 
 
 ```
@@ -38,6 +38,10 @@ ELF Header:
 
 C:\Users\Andrew Blyth\Desktop>
 ```
+
+Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. Then you use the S23DS debugger and execute to Elf file to validate your finds.
+
+* [Execise 5 ELF Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.7z)
 
 ## Contact Details
 
