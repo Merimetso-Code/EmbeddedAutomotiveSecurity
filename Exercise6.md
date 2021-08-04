@@ -8,10 +8,17 @@ The goalof this exercise is t get us to think about how we might exececute a att
 Once you have programmed both boards so that they are executing the required software we can now examine the system from a holistic perspective for vulnerabilities. In partcular we examining the attack surface fo a system you shoudl ask the following questions:
 
 * Does teh hardware contain any 
-    ** data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
-    ** debug/programming ports such as I2C, SPI and JTAG and how can these ports be accessed.
+    * data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
+    * debug/programming ports such as I2C, SPI and JTAG and how can these ports be accessed.
 * 
  
+## Advanced Topics
+
+If you have an oscilloscope or a logic analyse then you may wish to mount a man in the middle attack and odserve and analyses the data in the CAN Bus. Questions that you might like to answer are:
+
+* What is the data that is being transmitted over the CAN bus
+* At what spped is the data being transmitted
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
