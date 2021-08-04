@@ -14,7 +14,7 @@ For this exercise you can create the S32DS project using one of the following tw
 * Download the following and then uncompress and open the project.
   * [Exercise 2 - S32DS Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE2.7z)
 
-When you have installed the S32DS studio, then connect the MPC5748G Development Board to your laptop. Once you have executed the S32DS software and created/loaded the project, then can you edit the main function in the file hello_Z4_1.c. In the main function you should see teh following:
+Please note that for the following project we are making use of the Z4_0 core. When you have installed the S32DS studio, then connect the MPC5748G Development Board to your laptop. Once you have executed the S32DS software and created/loaded the project, then can you edit the main function in the file hello_Z4_1.c. In the main function you should see teh following:
 ```c
 int main(void)
 {
