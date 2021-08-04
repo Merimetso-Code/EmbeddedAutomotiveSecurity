@@ -1,7 +1,7 @@
 # Exercises 7 - Reverse engineering functionality and finding bugs (continued)
 
 
-![Cyber Kill Cain](Cyber-Kill-Chain.png)
+![Cyber Kill Cain](KillChain.png)
 
 ## Contact Details
 
