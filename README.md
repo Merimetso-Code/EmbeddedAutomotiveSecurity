@@ -25,9 +25,9 @@ In contrast to other trainings, we will not look into infotainment units as we s
 ## Session 2
 
 * Detailed explanation of CAN, CAN-FD and LIN buses
-* Exercise #5: Reverse engineering functionality and finding bugs
+* [Exercise #5: Reverse engineering functionality and finding bugs](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.md) 
 * Automotive Ethernet, Gateways and Ethernet switches as isolators
-* Exercises #6: Mapping and understanding attack surface
+* [Exercises #6: Mapping and understanding attack surface](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise6.md) 
 * Q&A / Wrap-up Session 2
 
 ## Session 3
