@@ -6,7 +6,7 @@ The goal of this exceise is to Build/Install your own ECU firmware (using S32 De
 
 You may also want to download and access the Installation Guide and Release notes associated with S32 DesigN Studion. These can be found using the above link. Once S32 Design Studion has been installed then we can start to create out first firmware.
 
-For this exercise you can create the S32DS project using one of the following two methods:
+For this exercise you can create the S32DS project using one of the following two methods: 
 
 * Run the S32DS software and then using the following pull down menus create a project.
   * File -> New -> S32DS Project From Example 
