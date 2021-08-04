@@ -47,7 +47,7 @@ Once you have statically reversed enginering the Execise 5 Elf file then you may
 
 Then you can use the S23DS debugger to execute the Elf file aand validate your finds.
 
-* [Execise 5 ELF Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise5.7z)
+* [Execise 5 ELF Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE5.7z)
 
 ## Contact Details
 
