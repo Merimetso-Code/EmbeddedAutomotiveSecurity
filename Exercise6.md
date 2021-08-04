@@ -5,6 +5,13 @@ The goalof this exercise is t get us to think about how we might exececute a att
 * [MPC5748G Development Board 1](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Transmit.7z)
 * [MPC5748G Development Board 2](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Recieve.7z)
 
+Please note that for the following project we are making use of the Z4_0 core and that source code for this project can be located under that core. So for the CAN bus recieve project we should have the following
+
+
+And for the CAN bus transmit project we should have the following
+
+
+
 Once you have programmed both boards so that they are executing the required software we can now examine the system from a holistic perspective for vulnerabilities. In partcular we examining the attack surface fo a system you shoudl ask the following questions:
 
 * Does teh hardware contain any 
