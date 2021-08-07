@@ -15,7 +15,7 @@ So, to start with dowanload the compressed package and uncompress it.
 This tutorial is structured in two parts. In the first part you are required to perform Reconnaissance on the softawre for the MPC5748G ECU, and the second part you will be required to validate the expliot. 
 
 * Stage 1 - Reconnaissance
-** JJ
+** Stag 1 begins with the analysis of the following code for processor Z4_0. Your analysis should focus on the main function. You are required to identify under what conditions an error/vulnerability can be triggered.
 ```
 C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
  Volume in drive C has no label.
