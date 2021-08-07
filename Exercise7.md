@@ -2,7 +2,10 @@
 
 The goal of this excercise is to use the kill chain in analysing the software for the ECU and developing an exploit. The two stages that we are going to explore in this exercise are:
 
-* Reconaiananace 
+* Reconnaissance 
+* Weaponization
+
+So, to start with dowanload the compressed package and uncompress it.
 
 ![Cyber Kill Cain](KillChain.png)
 
