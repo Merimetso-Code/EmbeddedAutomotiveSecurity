@@ -5,12 +5,11 @@ The goal of this excercise is to use the kill chain in analysing the software fo
 * Reconnaissance 
 * Weaponization
 
+![Cyber Kill Cain](KillChain.png)
+
 So, to start with dowanload the compressed package and uncompress it.
 
 * [Exercise 7](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE5.7z)
-
-![Cyber Kill Cain](KillChain.png)
-
 
 This tutorial is structured in two parts. In the first part you are required to perform Reconnaissance on the softawre for the MPC5748G ECU, and the second part you will be required to validate the expliot. 
 
@@ -40,6 +39,9 @@ C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>
 ```  
 
 * Stage 2 - Weaponization
+  *  For Stag 2 you are required to Weaponize the error/vulnerability identified in Stage 1. To acheieve this you will need to make use of both MPC5748G development board and wire then together via the CAN bus. On MPC5748G Development Board A you will nede to download and install the flexcan_receive project. On MPC5748G Development Board B you will need to develop the eapsonized exploit. 
+  *  I would suggest that you validate the vulnerability via debugging the application  MPC5748G Development Board A.
+
 
 ## Contact Details
 
