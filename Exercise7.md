@@ -39,9 +39,7 @@ C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>
 ```  
 
 * Stage 2 - Weaponization
-  *  For Stag 2 you are required to Weaponize the error/vulnerability identified in Stage 1. To acheieve this you will need to make use of both MPC5748G development board and wire then together via the CAN bus. On MPC5748G Development Board A you will nede to download and install the flexcan_receive project. On MPC5748G Development Board B you will need to develop the eapsonized exploit. 
-  *  I would suggest that you validate the vulnerability via debugging the application  MPC5748G Development Board A.
-
+  *  For Stag 2 you are required to Weaponize the error/vulnerability identified in Stage 1. To acheieve this you will need to make use of both MPC5748G development board and wire then together via the CAN bus. On MPC5748G Development Board A you will need to download and install the [flexcan_receive](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE5.7z) project. On MPC5748G Development Board B you will need to develop the weapsonized exploit. This can be achieved via using the flexcan_transmit project locataed within the the S32DS Design Studion. I would suggest that you validate the vulnerability via debugging the application MPC5748G Development Board A to ensure that the vulnerability is correctly triggered.
 
 ## Contact Details
 
