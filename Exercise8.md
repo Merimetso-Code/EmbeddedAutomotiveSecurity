@@ -45,7 +45,7 @@ int main(void)
 
 ## Command Line Debugging
 
-Should you want to explore command line debugging you can explore using the GNU debugger to:
+Should you want to explore command line debugging you can make use of the GNU debugger to:
 
 * Access Registers
 * Access Memory
