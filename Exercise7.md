@@ -16,8 +16,8 @@ This tutorial is structured in two parts. In the first part you are required to 
 
 * Stage 1 - Reconnaissance
 ** JJ
-
-C:\Projects\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
+```
+C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
  Volume in drive C has no label.
  Volume Serial Number is 70FA-A8D5
 
@@ -36,8 +36,8 @@ C:\Projects\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
                8 File(s)         78,210 bytes
                2 Dir(s)  753,345,302,528 bytes free
 
-C:\Projects\Projects\flexcan_receive\flexcan_receive_Z4_0\src>
-  
+C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>
+```  
 
 * Stage 2 - Weaponization
 
