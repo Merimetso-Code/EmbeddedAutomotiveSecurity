@@ -7,6 +7,8 @@ The goal of this excercise is to use the kill chain in analysing the software fo
 
 So, to start with dowanload the compressed package and uncompress it.
 
+* [Exercise 7]()
+
 ![Cyber Kill Cain](KillChain.png)
 
 ## Contact Details
