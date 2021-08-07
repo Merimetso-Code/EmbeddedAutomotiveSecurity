@@ -20,7 +20,7 @@ C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src>dir
  Volume in drive C has no label.
  Volume Serial Number is 70FA-A8D5
 
- Directory of C:\Projects\Projects\flexcan_receive\flexcan_receive_Z4_0\src
+ Directory of C:\Projects\flexcan_receive\flexcan_receive_Z4_0\src
 
 06/08/2021  20:31    <DIR>          .
 06/08/2021  20:31    <DIR>          ..
