@@ -7,11 +7,11 @@ The goal of this excercise is to use the GDB command line debugger to be debug a
 On the Windows PC connected to the  MPC5748G development board, via a USB connection, running the [EXERCISE 8 - FLEX CAN Bus Application]() and S32DS compile and download the application to the MPC5748G development board. Once this has been achieved, click the debug button for the Z4_0 core in the S32DS environment. You should step through the following functions usinfg break points and explore how variables can be set to trigger behaviour.
 
 ```c
-/************************************ Select *********************************/
+/************************************ Select ********************************************/
 int addmu(uint32_t index){
 	return index + 8;
 }
-/************************************ Select *********************************/
+/************************************ Select ********************************************/
 int select(){
 	uint32_t xspc_0 = 1;
 	uint32_t xspc_1 = 0;
@@ -23,25 +23,25 @@ int select(){
 	return xspc_1;
 }
 
-/************************************ Main ***********************************/
+/************************************ Main **********************************************/
 int main(void)
 {
  	uint32_t CAN_msg_count = 0;
  	uint32_t counres = 0;
-	xcptn_xmpl ();         /* Configure and Enable Interrupts */
+	xcptn_xmpl ();         	/* Configure and Enable Interrupts 	     		*/
 
-	peri_clock_gating();   /* Configure gating/enabling peripheral clocks(CANs) for modes*/
-	                       /* Configuration occurs after mode transition */
+	peri_clock_gating();   	/* Configure gating/enabling peripheral clocks(CANs) 	*/
+	                       	/* Configuration occurs after mode transition 		*/
 
-	system160mhz();        /* sysclk=160MHz, dividers configured, mode trans*/
+	system160mhz();        	/* sysclk=160MHz, dividers configured, mode trans	*/
 
-	initCAN_0_rx();           /* Initialise FlexCAN 0 & one of its buffers for receive*/
+	initCAN_0_rx();     	/* Initialise FlexCAN 0 & one of its buffers for receive*/
 
 	while (1) {
 
-	  ReceiveMsg();           /* Transmit one message from a FlexCAN 0 buffer */
-	  CAN_msg_count++;         /* Increment CAN message counter */
-	  SIUL2.MSCR[PA7].B.OBE = 1;  /* Pad PA7 (7): OBE=1. On EVB enable low DS5 LED */
+	  ReceiveMsg();       	/* Transmit one message from a FlexCAN 0 buffer 	*/
+	  CAN_msg_count++;      /* Increment CAN message counter 			*/
+	  SIUL2.MSCR[PA7].B.OBE = 1;  /* Pad PA7 (7): OBE=1. On EVB enable low DS5 LED 	*/
 	}
 	counres = select();
 	return 0;
