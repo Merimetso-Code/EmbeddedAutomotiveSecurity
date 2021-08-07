@@ -4,7 +4,7 @@ The goal of this excercise is to use the GDB command line debugger to be debug a
 
 * [EXERCISE 8 - FLEX CAN Bus Application]()
 
-
+On the Windows PC connected to the  MPC5748G development board, via a USB connection, running the [EXERCISE 8 - FLEX CAN Bus Application]() run the GNU GDB Debugger. 
 
 ## Contact Details
 
