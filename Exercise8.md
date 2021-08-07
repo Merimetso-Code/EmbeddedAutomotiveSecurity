@@ -29,16 +29,11 @@ int main(void)
  	uint32_t CAN_msg_count = 0;
  	uint32_t counres = 0;
 	xcptn_xmpl ();         	/* Configure and Enable Interrupts 	     		*/
-
 	peri_clock_gating();   	/* Configure gating/enabling peripheral clocks(CANs) 	*/
 	                       	/* Configuration occurs after mode transition 		*/
-
 	system160mhz();        	/* sysclk=160MHz, dividers configured, mode trans	*/
-
 	initCAN_0_rx();     	/* Initialise FlexCAN 0 & one of its buffers for receive*/
-
 	while (1) {
-
 	  ReceiveMsg();       	/* Transmit one message from a FlexCAN 0 buffer 	*/
 	  CAN_msg_count++;      /* Increment CAN message counter 			*/
 	  SIUL2.MSCR[PA7].B.OBE = 1;  /* Pad PA7 (7): OBE=1. On EVB enable low DS5 LED 	*/
