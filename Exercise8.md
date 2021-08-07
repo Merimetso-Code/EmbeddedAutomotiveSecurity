@@ -27,6 +27,7 @@ int select(){
 int main(void)
 {
  	uint32_t CAN_msg_count = 0;
+	uint32_t counres = 0;
 	xcptn_xmpl ();         	/* Configure and Enable Interrupts 	     		*/
 	peri_clock_gating();   	/* Configure gating/enabling peripheral clocks(CANs) 	*/
 	                       	/* Configuration occurs after mode transition 		*/
