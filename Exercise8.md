@@ -43,6 +43,19 @@ int main(void)
 }
 ```
 
+## Command Line Debugging
+
+Should you want to explore command line debugging you can explore using the GNU debugger to:
+
+* Access Registers
+* Access Memory
+
+Once the debugger is invoked in S32DS you can connect to the development board via the following GDB command:
+
+```
+(gdb) target remote localhost:7224
+```
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
