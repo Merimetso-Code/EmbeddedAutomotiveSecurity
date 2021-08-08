@@ -7,7 +7,7 @@ The goal of this exercise is to use design schematics and open source intelligen
 * [MPC5748G - Design Scematics](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/DEVKIT-MPC5748G-SCH.pdf)
 * [MPC5748G - Design Documentations](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/DEVKIT-MPC5748G.zip)
 
-They elements to consider are:
+They elements to consider are: 
 
 * What protocols/interfaces can we access. For Example: JTAG, SPI, I2C, CAN, FLEX, USB and Ethernet.
 * PCB routing of connections between Intergrate Circuits [IC].
