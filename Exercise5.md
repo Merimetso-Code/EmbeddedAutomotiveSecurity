@@ -41,7 +41,7 @@ C:\Users\Andrew Blyth\Desktop>
 
 Once you have statically reversed enginering the Execise 5 Elf file then you may wish to download the following project that we ised to create the Exercise 5 Elf and validate your findings. After you have downloaded the project, compile it and flash it to the MPC5748G development board. When reverse engineering key questions to focus on are:
 
-* What is the role/function of the software, What purpose dies it fulfill?
+* What is the role/function of the software, What purpose does it fulfill?
 * What functiion is the executable making use of and are there any debug symbols conatined in the file?
 * What strings/text-data is contained in the file and what does this tells us about the executable?
 
