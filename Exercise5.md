@@ -14,7 +14,7 @@ The [Exercise5 ELF Binary](https://github.com/Merimetso-Code/EmbeddedAutomotiveS
 
 
 ```
-C:\Users\Andrew Blyth\Desktop>C:\SysGCC\powerpc-eabi\bin\powerpc-eabi-readelf.exe -h Exercise5.elf
+C:\Users\Andrew Blyth\Desktop>C:\SysGCC\powerpc-eabi\bin\powerpc-eabi-readelf.exe -h Exercise5.elf 
 ELF Header:
   Magic:   7f 45 4c 46 01 02 01 00 00 00 00 00 00 00 00 00
   Class:                             ELF32
