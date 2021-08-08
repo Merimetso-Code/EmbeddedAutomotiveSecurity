@@ -1,5 +1,10 @@
 # Exercise 9 - Understanding and doodling schematics
 
+The goal of this exercise is to use design schematics and open source intelligence to identify access points. You should use the following documentations to identify possible accesspoints.
+
+* [MPC5748G - Development Board]()
+* [MPC5748G - Design Scematics]()
+
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
