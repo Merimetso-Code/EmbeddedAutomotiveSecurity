@@ -4,8 +4,8 @@ The goal of this exercise is to use design schematics and open source intelligen
 
 * [MPC5748G - Development Board](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/DEVKIT-MPC5748G-BD.jpg)
 * [MPC5748G - Data Sheet](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/MPC5748G.pdf)
-* [MPC5748G - Design Scematics]()
-* [MPC5748G - Design Documentation]()
+* [MPC5748G - Design Scematics](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/DEVKIT-MPC5748G-SCH.pdf)
+* [MPC5748G - Design Documentations]()
 
 ## Contact Details
 
