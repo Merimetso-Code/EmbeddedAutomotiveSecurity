@@ -4,7 +4,7 @@ The goal of this excercise is to use the GDB command line debugger to be debug a
 
 * [EXERCISE 8 - FLEX CAN Bus Application](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE8.7z)
 
-On the Windows PC connected to the  MPC5748G development board, via a USB connection, running the [EXERCISE 8 - FLEX CAN Bus Application]() and S32DS compile and download the application to the MPC5748G development board. Once this has been achieved, click the debug button for the Z4_0 core in the S32DS environment. You should step through the following functions usinfg break points and explore how variables can be set to trigger behaviour.
+On the Windows PC connected to the  MPC5748G development board, via a USB connection, running the [EXERCISE 8 - FLEX CAN Bus Application]() and S32DS compile and download the application to the MPC5748G development board. Once this has been achieved, click the debug button for the Z4_0 core in the S32DS environment. You should step through the following functions usinfg break points and explore how variables can be set to trigger behaviour. 
 
 ```c
 /************************************ Select ********************************************/
