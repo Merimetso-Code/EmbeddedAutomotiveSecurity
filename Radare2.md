@@ -107,3 +107,6 @@ graph mode is not visual mode!
   - search for bytes: `/x `
   - get offset for the actual seek point address: `?p`
     
+## Contact Details
+
+For further information and questions please contact Dr Andrew Blyth, PhD. ablyth@merimetso.net
