@@ -5,6 +5,10 @@ The goal of this execise is to disasemble a ECU Flash Image. To do this we will 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 * [Radare 2](https://rada.re/n/)
 
+Once you have instadd Radare2 you find the following command useful.
+
+* [Radare2 Commands](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Radare2.md)
+
 Once you have installed the GNU Tool Chain you should have somthing that look like the following:  
 
 ```
