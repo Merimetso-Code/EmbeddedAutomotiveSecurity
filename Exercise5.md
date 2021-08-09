@@ -30,7 +30,7 @@ ELF Header:
   Start of program headers:          52 (bytes into file)
   Start of section headers:          801884 (bytes into file)
   Flags:                             0x0
-  Size of this header:               52 (bytes)
+  Size of this header:               52 (bytes) 
   Size of program headers:           32 (bytes)
   Number of program headers:         7
   Size of section headers:           40 (bytes)
