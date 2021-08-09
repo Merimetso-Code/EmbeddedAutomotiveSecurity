@@ -10,4 +10,3 @@ Using source analysis you would identify a set of possible vulnerabilities and t
 ## Contact Details
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net> 
- 
