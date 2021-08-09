@@ -2,7 +2,7 @@
 
 The following are s set of Radare2 commanads that you may find useful in analyse executables.
 
-# Radare2 Commands
+## Baasic Radare2 Commands
 
 load without any analysis (file header at offset 0x0): `r2 -n /path/to/file`
 
