@@ -5,7 +5,7 @@ The goal of this execise is to disasemble a ECU Flash Image. To do this we will 
 * [GNU PowerPC Tool Chain](https://gnutoolchains.com/powerpc-eabi/)
 * [Radare 2](https://rada.re/n/)
 
-Once you have installed the GNU Tool Chain you should have somthing that look like the following: 
+Once you have installed the GNU Tool Chain you should have somthing that look like the following:  
 
 ```
 c:\SysGCC\powerpc-eabi\bin>dir
