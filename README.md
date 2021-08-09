@@ -8,7 +8,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 
 * Classes of ECUs in cars
 * Protocols in use in cars
-* Exercise #0: Hypothesising potential vulnerabilities by reading standards
+* [Exercise #0: Hypothesising potential vulnerabilities by reading standards](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise0.md)
 * Automotive network topologies
 * Exercise #1: Test communications with an ECU
 * Q&A / Wrap-up Session 0
