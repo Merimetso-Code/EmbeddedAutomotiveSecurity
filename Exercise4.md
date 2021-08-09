@@ -73,6 +73,8 @@ To help you with your analysis you may find the following tools of use.
     * This tool can be used to identify the strings contained within a single file. 
 * powerpc-eabi-objdump.exe
     * This tool can used to disassemble the contents of an executable down into PowerPC machine code. 
+* radare2
+    * This tool is a software disassemble/debugger that allows for the executed to be decompiled and analysed
 
 ## Other Tools
 
