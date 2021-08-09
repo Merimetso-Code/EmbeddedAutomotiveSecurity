@@ -13,7 +13,7 @@ load without any analysis (file header at offset 0x0): `r2 -n /path/to/file`
   - list entrypoints: `ie`
   - seek to function: `s sym.main`
 
-## project management
+## project management 
 
   - open project: `Po <name>`
   - save project: `Ps <name>`
