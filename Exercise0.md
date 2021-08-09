@@ -1,4 +1,4 @@
-# Exercise 0 - Hypothesis Testing
+# Exercise 0 - Hypothesising potential vulnerabilities by reading standards
 
 The goal of this exceise is use hypothesis testing to explore and identify vulnerabilities in the following standards:
 
