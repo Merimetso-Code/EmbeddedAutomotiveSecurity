@@ -9,7 +9,7 @@ Once you have instadd Radare2 you find the following command useful.
 
 * [Radare2 Commands](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Radare2.md)
 
-Once you have installed the GNU Tool Chain you should have somthing that look like the following:  
+Once you have installed the GNU Tool Chain you should have somthing that look like the following:
 
 ```
 c:\SysGCC\powerpc-eabi\bin>dir
