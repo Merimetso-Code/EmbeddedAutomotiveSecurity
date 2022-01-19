@@ -1,16 +1,17 @@
 # Exercise 2 - Build your own ECU firmware (using SPC5 Studio)
 
-The goal of this exercise is to Build/Install your own ECU firmware (using SPC5 Studio). The first stage of this is to download and install the S32 Power PC Design Studio. To achieve this please click on the following link and download and install the S32DS software. Please remember that when installing the S32DS software you will need to access the Licence Keys tab on then S32DS download web page and obtain a valid licence key.
+The goal of this exercise is to Build/Install your own ECU firmware (using SPC5 Studio). The first stage of this is to download and install the S32 Power PC Design Studio. To achieve this please click on the following link and download and install the S32DS software.
 
-* [SPC5 Studio]()
+* [SPC5 Studio](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/spc5-software-development-tools/spc5-studio.html)
 
 You may also want to download and access the Installation Guide and Release notes associated with SPC5 Studio. These can be found using the above link. Once SPC5 Studio has been installed then we can start to create out first firmware.
 
 For this exercise you can create a project using one of the following two methods:
 
 * Run the S32DS software and then using the following pull down menus create a project.
-  * File -> New -> ?????
-  * **********
+  * File -> New -> SPC5Studio Import Wizard
+    * Select a Family -> SPC56
+    * Select a Product Line -> P-Line
 
 When you have installed the SPC5 Studio, then connect the SPC560P Development Board to your laptop. Once you have executed the SPC5 Studio software and created/loaded the project, then can you edit the main function in the file. In the main function you should see the following:
 ```c
