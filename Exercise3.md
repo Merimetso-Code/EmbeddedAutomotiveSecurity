@@ -1,6 +1,8 @@
-# Exercise 3 - Use JTAG to snapshot a device for emulation
+# Exercise 3 - Use JTAG to Snapshot a Device for Emulation
 
 The goal of this exercise is to develop an understanding of JTAG. This is not really an exercise, it is more of series of directed reading, links and videos. The MPC5748G development board does support JTAG and it allows for a programming to make use of the JTAG interface via a JTAG adapter and an On-Chip Debugger.
+
+## Directed Reading.
 
 For those students interested in using JTAG I would recommend the following Books.
 
@@ -18,10 +20,6 @@ For those students interested in using JTAG I would recommend the following Vide
 
 * [What is JTAG](https://www.youtube.com/watch?v=TlWlLeC5BUs)
 * [JTAG TAP Controller](https://www.youtube.com/watch?v=PhaqHKyAvR4)
-
-## Contact Details.
-
-For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
