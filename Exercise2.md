@@ -46,6 +46,7 @@ int main(void) {
   /*
           Place My Code In Here To Create an Integer
   */
+
   /* Start the FreeRTOS scheduler */
   vTaskStartScheduler();
 
@@ -53,7 +54,7 @@ int main(void) {
 
 }
 ```
-Now edit the while loop and replace it with an infinite for loop. Within that for-loop define an 32-bit integer and then:
+Now replace the "Place My Code In Here To Create an Integer" comment with a for loop (0 to 1024). Within that for loop define an 32-bit integer and then:
 * Sets the integer to zero;
 * Adds 32768 to it;
 * Sets it to zero again;
