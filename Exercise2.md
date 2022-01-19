@@ -36,20 +36,12 @@ int main(void) {
   sd_lld_start(&SD1, NULL);
 
   /* Creating first task to blink LED0 */
-  xTaskCreate( vTaskOne,
-               (const char * const)"task #1",
-               configMINIMAL_STACK_SIZE,
-               NULL,
-               tskIDLE_PRIORITY + 1,
-               NULL );
+  xTaskCreate( vTaskOne, (const char * const)"task #1",
+               configMINIMAL_STACK_SIZE, NULL, tskIDLE_PRIORITY + 1, NULL );
 
   /* Creating second task to blink LED1 */
-  xTaskCreate( vTaskTwo,
-               (const char * const)"task #2",
-               configMINIMAL_STACK_SIZE,
-               NULL,
-               tskIDLE_PRIORITY + 1,
-               NULL );
+  xTaskCreate( vTaskTwo,(const char * const)"task #2",
+               configMINIMAL_STACK_SIZE, NULL, tskIDLE_PRIORITY + 1,NULL );
 
   /*
           Place My Code In Here To Create an Integer
