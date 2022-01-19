@@ -1,4 +1,4 @@
-# Exercise 3 - Use JTAG to snapshot a device for emulation
+# Exercise 6 - Mapping and understanding attack surface
 
 The goal of this exercise is to ???????.
 

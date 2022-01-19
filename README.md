@@ -1,4 +1,4 @@
-# EmbeddedAutomotiveSecurity
+# Embedded Automotive Security
 
 This training is geared towards offensive security researchers, penetration testers or red team members who want to dip their toes into the field of automotive security. The basis of this training are developments boards that give the attendees a practical introduction to bus systems such as CAN, LIN and FlexRay. After the students have learned about common ECU classes, protocols and the AUTOSAR standards we will write some parts of an ECU ourselves to put us in the position of a developer. We then switch to an offensive security perspective and take apart and analyse an ECU image step by step until we will have (a) working exploit(s) against that system at the end of the week.
 
@@ -35,12 +35,12 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Attack planning/Chaining vulnerabilities
 * [Exercises #7: Reverse engineering functionality and finding bugs (continued)](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise7.md)
 * FlexRay
-* [Exercise #8: FlexRay(https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise8.md)
+* [Exercise #8: FlexRay and CAN BUS](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise8.md)
 * Q&A / Wrap-up Session 3
 
 ## Session 4
 * Real-world car hacking: How to source parts, how not to tear apart your car, where to find documentation and tools
-* [Exercise #9: Understanding and doodling schematics](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise9.md)
+* [Exercise #9: Understanding schematics](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise9.md)
 * Building benches and labs
 * [Exercise #10: Exploiting the bugs you found](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise10.md)
 * Q&A / Final Wrap-up

@@ -1,4 +1,4 @@
-# Exercise 3 - Use JTAG to snapshot a device for emulation
+# Exercise 10 - Exploiting the bugs you found
 
 The goal of this exercise is to ???????.
 

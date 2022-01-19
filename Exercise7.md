@@ -1,4 +1,4 @@
-# Exercise 3 - Use JTAG to snapshot a device for emulation
+# Exercise 7 - Reverse engineering functionality and finding bugs (continued)
 
 The goal of this exercise is to ???????.
 
