@@ -1,6 +1,9 @@
 # Exercise 3 - Use JTAG to Snapshot a Device for Emulation
 
-The goal of this exercise is to develop an understanding of JTAG. This is not really an exercise, it is more of series of directed reading, links and videos. The MPC5748G development board does support JTAG and it allows for a programming to make use of the JTAG interface via a JTAG adapter and an On-Chip Debugger.
+The goal of this exercise is to develop an understanding of JTAG and using JTAG to take a snapshot of the memory of a device. To this exercise we will make use of the Segger J-Link Software and Hardware.
+
+* [Segger J-Link Software](https://www.segger.com/downloads/jlink/)
+* [Segger J-Link Hardware](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu/)
 
 ## Directed Reading.
 
