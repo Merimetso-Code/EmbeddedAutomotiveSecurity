@@ -13,8 +13,9 @@ For this exercise you can create a project using one of the following two method
     * Select a Family -> SPC56
     * Select a Product Line -> P-Line
     * Select SPC560P-Disp -> NEXT
-    * Then Select
-      * SPC56_Discovery
+    * Then Select:
+      * SPC56_Discovery -> FreeRTOS
+      * Application Name: SPC560Pxx_RLA_FreeRTOS Serial Test
 
 When you have installed the SPC5 Studio, then connect the SPC560P Development Board to your laptop. Once you have executed the SPC5 Studio software and created/loaded the project, then can you edit the main function in the file. In the main function you should see the following:
 ```c
