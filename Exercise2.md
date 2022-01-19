@@ -21,7 +21,45 @@ Once you have executed the SPC5 Studio software and created/loaded the project, 
 
 In the main function you should see the following:
 ```c
+int main(void) {
 
+  /* Initialization of all the imported components in the order specified in
+     the application wizard. The function is generated automatically.*/
+  componentsInit();
+
+  /* Enable Interrupts */
+  irqIsrEnable();
+
+  /*
+   * Activates the serial driver 1 using the driver default configuration.
+   */
+  sd_lld_start(&SD1, NULL);
+
+  /* Creating first task to blink LED0 */
+  xTaskCreate( vTaskOne,
+               (const char * const)"task #1",
+               configMINIMAL_STACK_SIZE,
+               NULL,
+               tskIDLE_PRIORITY + 1,
+               NULL );
+
+  /* Creating second task to blink LED1 */
+  xTaskCreate( vTaskTwo,
+               (const char * const)"task #2",
+               configMINIMAL_STACK_SIZE,
+               NULL,
+               tskIDLE_PRIORITY + 1,
+               NULL );
+
+  /*
+          Place My Code In Here To Create an Integer
+  */
+  /* Start the FreeRTOS scheduler */
+  vTaskStartScheduler();
+
+  return 0;
+
+}
 ```
 Now edit the while loop and replace it with an infinite for loop. Within that for-loop define an 32-bit integer and then:
 * Sets the integer to zero;
