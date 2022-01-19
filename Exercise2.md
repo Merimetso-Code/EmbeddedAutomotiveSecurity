@@ -19,6 +19,10 @@ Once you have executed the SPC5 Studio software and created/loaded the project, 
 
 * Generation Application Code, Overwriting all Previous Content -> On the Code Centric Actions Tab
 
+You can also download this project via the following:
+
+* (SPC560Pxx_RLA FreeRTOS SERIAL Test Application for Discovery](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise1.zip)
+
 In the main function you should see the following:
 ```c
 int main(void) {
