@@ -4,9 +4,7 @@ The goal of this exercise is to Build/Install your own ECU firmware (using SPC5 
 
 * [SPC5 Studio](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/spc5-software-development-tools/spc5-studio.html)
 
-You may also want to download and access the Installation Guide and Release notes associated with SPC5 Studio. These can be found using the above link. Once SPC5 Studio has been installed then we can start to create out first firmware.
-
-For this exercise you can create a project using one of the following two methods:
+You may also want to download and access the Installation Guide and Release notes associated with SPC5 Studio. These can be found using the above link. Once SPC5 Studio has been installed then we can start to create out first firmware. When you have installed the SPC5 Studio, then connect the SPC560P Development Board to your laptop. For this exercise you can create a project using one of the following two methods:
 
 * Run the S32DS software and then using the following pull down menus create a project.
   * File -> New -> SPC5Studio Import Wizard
@@ -17,7 +15,11 @@ For this exercise you can create a project using one of the following two method
       * SPC56_Discovery -> FreeRTOS
       * Application Name: SPC560Pxx_RLA_FreeRTOS Serial Test
 
-When you have installed the SPC5 Studio, then connect the SPC560P Development Board to your laptop. Once you have executed the SPC5 Studio software and created/loaded the project, then can you edit the main function in the file. In the main function you should see the following:
+Once you have executed the SPC5 Studio software and created/loaded the project, then can you edit the main function in the file. Remember to click the:
+
+* Generation Application Code, Overwriting all Previous Content -> On the Code Centric Actions Tab
+
+In the main function you should see the following:
 ```c
 
 ```
