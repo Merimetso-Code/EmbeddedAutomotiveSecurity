@@ -1,10 +1,10 @@
 # Exercise 0 - Hypothesising potential vulnerabilities by reading standards
 
-The goal of this exceise is use hypothesis testing to explore and identify vulnerabilities in the following standards:
+The goal of this exercise is use hypothesis testing to explore and identify vulnerabilities in the following standards:
 
 * [CAN Bus](http://esd.cs.ucr.edu/webres/can20.pdf)
 
-Attention should be paid to the following security models to aid in your 
+Attention should be paid to the following security models to aid in your
 hypothesis testing
 
 * The CIA Model
