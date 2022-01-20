@@ -21,7 +21,7 @@ Once you have executed the SPC5 Studio software and created/loaded the project, 
 
 You can also download this project via the following:
 
-* [SPC560Pxx_RLA FreeRTOS SERIAL Test Application for Discovery](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise1.zip)
+* [SPC560Pxx_RLA FreeRTOS SERIAL Test Application for Discovery](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise2.zip)
 
 In the main function you should see the following:
 ```c
