@@ -35,7 +35,7 @@ In contrast to other trainings, we will not look into infotainment units as we s
 * Attack planning/Chaining vulnerabilities
 * [Exercises #7: Reverse engineering functionality and finding bugs (continued)](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise7.md)
 * FlexRay
-* [Exercise #8: FlexRay and CAN BUS](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise8.md)
+* [Exercise #8: LIN and CAN BUS](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/Exercise8.md)
 * Q&A / Wrap-up Session 3
 
 ## Session 4
