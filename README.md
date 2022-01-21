@@ -54,7 +54,7 @@ The development board that we are going to be using for this class is the NXP MP
 The following is an image of the SPC560P-DISP Development board that we are going to use in this class
 ![SPC560P](2520506-40.jpg)
 
-It is expected that all students have a laptop/computer running an up to date version of the Microsoft Windows 10 Operating System.
+It is expected that all students have a laptop/computer running an up to date version of the Microsoft Windows 10 Operating System and a connection to the Internet.
 
 ## Contact Details
 
