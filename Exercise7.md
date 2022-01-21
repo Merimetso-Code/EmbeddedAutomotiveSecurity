@@ -50,20 +50,18 @@ C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA FreeRTOS SERIAL Test Application for D
 
 For the RTOS Serial transmit/receive project is as follows.
 ```c
-/* Include required files                           */
+/* Include required files                               */
 uint8_t message_task1[]= "Task1...\r\n";
 uint8_t message_task2[]= "Task2...\r\n";
 uint8_t mess1[30] ="\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0";
 uint8_t mess2[]= "Task....\r\n";
 
 /* Task One Definition
-
     Copy message_task2 -> mess2
     Copy mess1 -> mess2
 */
 
 /* Task Two Definition
-
     Copy message_task2 -> mess2
     Copy mess1 -> mess2
 */
