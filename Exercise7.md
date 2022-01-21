@@ -9,7 +9,7 @@ The goal of this exercise is to use the kill chain in analysing the software for
 
 So, to start with download the compressed package and uncompress it.
 
-* [Exercise 7](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE7.zip)
+* [Exercise 7 - FreeRTOS Serial Application](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE7.zip)
 
 This tutorial is structured in two parts. In the first part you are required to perform Reconnaissance on the software for the SPC650P ECU, and the second part you will be required to validate the exploit.  
 
