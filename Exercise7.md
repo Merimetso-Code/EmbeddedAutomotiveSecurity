@@ -61,10 +61,7 @@ uint8_t mess2[]= "Task....\r\n";
     Copy mess1 -> mess2
 */
 
-/* Task Two Definition
-    Copy message_task2 -> mess2
-    Copy mess1 -> mess2
-*/
+/* Task Two Definition                                  */
 
 int main(void) {
   /* Initialise data, variables and interrupts          */
@@ -95,8 +92,12 @@ int main(void) {
 
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
 
-
 # Tips and Hints
+For help on this exercise:
+* Look at the buffers used to copy data for Task 1
+* What data/characters are in those buffers?
+* What happens when to change the data in the buffers?
+
 Information and help on programming in C can be found on the following links:
 * [Programming in C](https://beginnersbook.com/2014/01/c-program-structure/)
 * [A C Tutorial](https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv)
