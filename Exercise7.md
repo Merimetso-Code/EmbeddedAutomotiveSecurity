@@ -93,7 +93,7 @@ int main(void) {
 For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
 
 # Tips and Hints
-For help on this exercise:
+For help with this exercise consider the following questions:
 * Look at the buffers used to copy data for Task 1
 * What data/characters are in those buffers?
 * What happens when to change the data in the buffers?
