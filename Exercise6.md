@@ -3,6 +3,7 @@
 The goal of this exercise is to get us to think about how we might execute an attack against an ECU. In this exercise we are going to make use of the SPC560P-Disp Development Board. On SPC560P-Disp Development Board we are going to execute a LIN BUS receive/transmit program.
 
 * [LIN Bus Transmit/Receive SPC5 Studio Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE6.zip)
+
 ![SPC560P](2520506-40.jpg)
 
 For the LIN bus receive project we should have the following:
@@ -88,12 +89,12 @@ static void lin_master_transmit(LinDriver *ldp, uint8_t idMessage, uint8_t *buff
 Once you have programmed the SPC560P board so that it are executing the required software you can now examine the system from a holistic perspective for vulnerabilities. In particular, we examining the attack surface for a system you should ask the following questions:
 
 * Does the hardware contain any
-    * data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
-    * debug/programming ports such as I2C, SPI and JTAG and how can these ports be accessed.
+    * Data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
+    * Debug/programming ports such as I2C, SPI and JTAG and how can these ports be accessed.
 * Does the software contain any vulnerabilities, such as
-    * Can I write more that 8 bights of data to the CAN bus
-    * I am using vulnerability functions such as strcpy()
-    * Can I modify the data that is being transmitted over the CAN bus
+    * Can I write more that 8 bights of data to the CAN bus?
+    * Am I using vulnerability functions such as strcpy(), and how is data copied between buffers/arrays?
+    * Can I modify the data that is being transmitted over the CAN bus?
 
 ## Advanced Topics
 
