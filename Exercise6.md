@@ -2,10 +2,10 @@
 
 The goal of this exercise is to get us to think about how we might execute an attack against an ECU. In this exercise we are going to make use of the SPC560P-Disp Development Board. On SPC560P-Disp Development Board we are going to execute a LIN BUS receive/transmit program.
 
-* [LIN Bus Transmit/Receive SPC5 Studio Project]((https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE6.zip)
+* [LIN Bus Transmit/Receive SPC5 Studio Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE6.zip)
 * [SPC560P-Disp Development Board](2520506-40.jpg)
 
-For the LIB bus receive project we should have the following:
+For the LIN bus receive project we should have the following:
 ```c
 static uint16_t lin_master_receive(LinDriver *ldp, uint8_t idMessage, uint8_t *buffer, uint16_t msg_len) {
   volatile struct spc5_linflexl *linflexlp = ldp->linflexlp;
