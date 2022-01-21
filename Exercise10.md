@@ -2,8 +2,7 @@
 
 The goal of this exercise is to analyse the source code of an application and develop an appropriate exploit. To analyse the ELF binary you should use the Radare2/Cutter tool. The following is the source code for the application to be analysed.
 
-* [Application Source Code for SPC560P Development Board A]()
-* [Application Source Code for SPC560P Development Board B]()
+* [Application Source Code for SPC560P Development Board]()
 
 Using source analysis you would identify a set of possible vulnerabilities and then using the GNU Debugger within the S32 Design Studio and Radare2/Cutter you should validate the vulnerabilities and develop appropriate exploit code.
 
