@@ -4,7 +4,6 @@ The goal of this exercise is to develop an understanding of JTAG and using JTAG 
 
 * [Segger J-Link Software](https://www.segger.com/downloads/jlink/)
 * [Segger J-Link Hardware](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu/)
-* []()
 
 To start this exercise you will need to download and install the [Segger J-Link Software](https://www.segger.com/downloads/jlink/) on your laptop. To start this exercise you will need to connect the SPC560P-DISP development board to the PC, the Segger J-Link Hardware to your Laptop and the Segger J-Link Hardware to the SPC560P-DISP development board as Shown Below.
 

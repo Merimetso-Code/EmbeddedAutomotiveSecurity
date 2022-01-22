@@ -88,9 +88,6 @@ int main(void) {
   return 0;
 }
 ```
-## Contact Details
-
-For further information and questions please contact Dr Andrew Blyth, PhD. <ablyth@merimetso.net>
 
 # Tips and Hints
 For help with this exercise consider the following questions:
