@@ -42,11 +42,13 @@ For the purposes of this Exercise download and open the following project SPC5 S
 
 * [Exercise1](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE1.zip)
 
-Once you have download and open this file in SPC5 Studio then you should get the following
-![SPC5STUDIO](SPC.jpg)
+Once you have download and open this file in SPC5 Studio then you should get the following:
+
+![SPC5STUDIO](SPC.png)
 
 And opening the 'debug.wsx' win Universal Debug Engine (UDE) should produce the following:
-![UDE](UDE.jpg)
+
+![UDE](UDE.png)
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
