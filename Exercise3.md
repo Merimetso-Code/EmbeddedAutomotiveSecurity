@@ -34,7 +34,7 @@ For the purposes of this exercise you should endeavour to perform the following 
 * Examine the Registers and Step through the execution of the firmware.
 * Examine elements of memory and the stack.
 
-## Directed Reading.
+# Directed Reading.
 
 For those students interested in using JTAG I would recommend the following Books.
 
