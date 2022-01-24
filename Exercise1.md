@@ -1,6 +1,6 @@
-# Exercise 1 - Test communications with an ECU
+# Exercise 1 - Test Communications with an ECU
 
-The goal of this exercise is to download and install the SPC5 Studio. This exercise starts with the student connecting the SPC560P development board to the PC. Once the student has connected the Board to the PC and powered the SPC560P Board on then the student should download, install and execute the SPC5 Studio onto their laptop using the following link.
+The goal of this exercise is to download and install the SPC5 Studio. This exercise starts with the student connecting the SPC560P development board to the PC. Once the student has connected the Board to the PC and powered the SPC560P Board on, then the student should download, install and execute the SPC5 Studio onto their laptop using the following link.
 
 * [SPC5 Studio](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/spc5-software-development-tools/spc5-studio.html)
 

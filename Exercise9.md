@@ -2,7 +2,7 @@
 
 The goal of this exercise is to use design schematics and open source intelligence to identify access points. You should use the following documentation to identify possible physical access points that may be vulnerable to attack.
 
-* [SPC560P - Development Board](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/2520506-40.jpg)
+* [SPC560P - Development Board](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/2520506.jpg)
 * [SPC560P - Design](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/SPC560P-Design.pdf)
 * [SPC560P - Documentations](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/SPC560P-Ref-Man.pdf)
 
