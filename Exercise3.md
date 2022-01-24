@@ -16,7 +16,21 @@ You can identify the Pin-Outs on the SPC560P Development Board and the pin-outs 
 * [SPC560P Development Board - JTAG Pin Outs](2520506.jpg)
 * [J-Link - JTAG Pin Out](PinOut.png)
 
-Once you have connect all the hardware components together you should run the J-Link software on your laptop. When running the J-Link software you will need to use the connect command to configure the J-Link software/hardware. When using the conned command you will need to specify the CPU type (SPC560P50) and then just select the default options.  
+Once you have connect all the hardware components together you should run the J-Link software on your laptop. When running the J-Link software you will need to use the connect command to configure the J-Link software/hardware. When using the conned command you will need to specify the CPU type (SPC560P50) and then just select the default options.  The following shows the J-Link Software once the connection has been established?
+
+![SPC560P-JLink](JLink.png)
+
+Once the J-Link command software is up and running then you can use the following commands to explore the SPC560P Development board
+
+* HALT - This stops/halts the execution of the CPU.
+* JJ
+* **
+
+For the purposes of this exercise you should endeavour to perform the following functions:
+
+* Halt the execution of the firmware.
+* Examine the Registers and Step through the execution of the firmware.
+* Examine elements of memory and the stack.
 
 ## Directed Reading.
 
