@@ -3,7 +3,7 @@
 The goal of this exercise is to download and install the SPC5 Studio. This exercise starts with the student connecting the SPC560P development board to the PC. Once the student has connected the Board to the PC and powered the SPC560P Board on, then the student should download, install and execute the SPC5 Studio, and the Universal Debug Engine (UDE) onto their laptop using the following link.
 
 * [The SPC5 Studio](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/spc5-software-development-tools/spc5-studio.html)
-* [The Universal Debug Engine (UDE)](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/spc5-software-development-tools/udestk-2021-05-spc5-stk.exe)
+* [The Universal Debug Engine (UDE)](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/udestk-2021-05-spc5-stk.exe)
 
 Once the SPC5 Studio and Universal Debug Engine (UDE) then we can begin to develop and debug applications. When debugging applications you will need to get the Universal Debug Engine (UDE) to open the debug.wsx file located in the UDE directory within your workspace.
 ```
