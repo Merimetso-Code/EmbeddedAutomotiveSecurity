@@ -70,17 +70,13 @@ int main(void) {
   xTaskCreate( vTaskOne,
                (const char * const)"task #1",
                configMINIMAL_STACK_SIZE,
-               NULL,
-               tskIDLE_PRIORITY + 1,
-               NULL );
+               NULL, tskIDLE_PRIORITY + 1, NULL );
 
   /* Create/Run Task 2                                  */
   xTaskCreate( vTaskOne,
                (const char * const)"task #1",
                configMINIMAL_STACK_SIZE,
-               NULL,
-               tskIDLE_PRIORITY + 1,
-               NULL );
+               NULL, tskIDLE_PRIORITY + 1, NULL );
 
   /* Start the FreeRTOS scheduler */
   vTaskStartScheduler();
