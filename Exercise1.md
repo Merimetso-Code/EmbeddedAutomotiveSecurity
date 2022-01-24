@@ -8,45 +8,39 @@ The goal of this exercise is to download and install the SPC5 Studio. This exerc
 
 Once the SPC5 Studio and Universal Debug Engine (UDE) then we can begin to develop and debug applications. When debugging applications you will need to get the Universal Debug Engine (UDE) to open the "debug.wsx" file located in the UDE directory within your workspace.
 ```
-C:\SPC5Studio-6.0\workspace\Exercise1>dir
+C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover>dir
  Volume in drive C has no label.
  Volume Serial Number is 70FA-A8D5
 
- Directory of C:\SPC5Studio-6.0\workspace\Exercise1
+ Directory of C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover
 
 21/01/2022  11:14    <DIR>          .
 21/01/2022  11:14    <DIR>          ..
 . . . . . . . . . . . . . . . . . . . . . . . . . .
-21/01/2022  11:14             4,352 application.ld
-21/01/2022  21:29    <DIR>          build
-21/01/2022  11:14    <DIR>          components
-21/01/2022  11:13            70,033 configuration.xml
-21/01/2022  11:41             2,856 main.c
-21/01/2022  11:14             4,732 Makefile
-21/01/2022  11:14               165 patch.xml
-21/01/2022  11:14    <DIR>          pclint
-21/01/2022  11:13               222 readme.txt
 21/01/2022  11:13    <DIR>          source
 21/01/2022  21:29    <DIR>          UDE
 21/01/2022  11:13               428 user.mak
               10 File(s)         92,353 bytes
                9 Dir(s)  724,143,259,648 bytes free
 
-C:\SPC5Studio-6.0\workspace\Exercise1> cd UDE
+C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover> cd UDE
 
-C:\SPC5Studio-6.0\workspace\Exercise1\UDE>dir
+C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover\UDE>dir
  Volume in drive C has no label.
  Volume Serial Number is 70FA-A8D5
 
- Directory of C:\SPC5Studio-6.0\workspace\Exercise1\UDE
+ Directory of C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover\UDE
 
 21/01/2022  21:29    <DIR>          .
 21/01/2022  21:29    <DIR>          ..
 21/01/2022  11:13            52,511 debug.wsx
 . . . . . . . . . . . . . . . . . . . . . . . . . .
-C:\SPC5Studio-6.0\workspace\Exercise1\UDE>
+C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover\UDE>
 
 ```
+For the purposes of this Exercise download and open the following project SPC5 Studio and the Universal Debug Engine (UDE)
+
+* [Exercise1]()(https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE1.zip)
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
