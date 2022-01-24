@@ -4,24 +4,42 @@ The goal of this exercise is to use the GDB command line debugger to be debug a 
 
 * [EXERCISE 8 - CAN Bus Application](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE8.7z)
 
-On the Windows PC connected to the SPC560P development board, via a USB connection, running the [EXERCISE 8 - CAN Bus Application]() and compile and download the application to the SPC560P development board. You should step through the following functions using break points and explore how variables can be set to trigger behaviour.
+Connect your laptop to the SPC560P development board, via a USB connection, and compile the downloaded the application. You should then step through the application setting breakpoints, and explore the stack and registers using the Universal Debugger Engine (UDE).  You should step through the following functions using break points and explore how variables can be set to trigger behaviour.
 
 ```c
-
+/*
+ * This is a simple compute function
+ */
+int comput(int a, int b) {
+	return a + b ;
+}
+/*
+ * This is the Application entry point.
+ */
+int main(void) {
+  uint8_t  a = 0;
+  uint8_t  b = 0;
+  uint8_t  c = 0;
+  uint8_t message[]= "Hello World!\r\n";
+  /*
+   * Other stuff that the program does to say Hello World over a serial connection
+   */
+   for (b = 0; b >64; b++){
+     c = comput(comput(a, b), b);
+     c = a + 1;
+     a = c;
+  /*
+   *
+   */
+  }
+}
 ```
 
-## Command Line Debugging
+You should explore:
 
-Should you want to explore command line debugging you can make use of the GNU debugger to:
-
-* Access Registers
-* Access Memory
-
-Once the debugger is invoked in SPC5 Studio you can connect to the development board via the following GDB command:
-
-```
-(gdb) target remote localhost:7224
-```
+* Setting and examining breakpoints
+* Examine registers and the status of variables
+*
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
