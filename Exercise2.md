@@ -64,7 +64,7 @@ Now replace the "Place My Code In Here To Create an Integer" comment with a for 
 * Sets it to zero again;
 * Subtract 1 from it.
 
-Once you have down this compile project and download the project to the development board and reboot the developments board.
+Once you have down this compile project and download the project to the development board and reboot the developments board. Now use the UDE Debugger to set a series of break points and step through the application.
 
 # Advanced Exercise 2
 

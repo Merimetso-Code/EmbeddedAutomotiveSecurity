@@ -94,6 +94,7 @@ For help with this exercise consider the following questions:
 * Look at the buffers used to copy data for Task 1
 * What data/characters are in those buffers?
 * What happens when to change the data in the buffers?
+* Use the UDE debugger to change the data contained in 'uint8_t mess1[30]' and explore what happens.
 
 Information and help on programming in C can be found on the following links:
 * [Programming in C](https://beginnersbook.com/2014/01/c-program-structure/)

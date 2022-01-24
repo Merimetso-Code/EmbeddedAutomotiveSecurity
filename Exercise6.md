@@ -4,7 +4,7 @@ The goal of this exercise is to get us to think about how we might execute an at
 
 * [LIN Bus Transmit/Receive SPC5 Studio Project](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE6.zip)
 
-![SPC560P](2520506-40.jpg)
+![SPC560P](2520506.jpg)
 
 For the LIN bus receive project we should have the following:
 ```c
@@ -86,7 +86,7 @@ static void lin_master_transmit(LinDriver *ldp, uint8_t idMessage, uint8_t *buff
 }
 ```
 
-Once you have programmed the SPC560P board so that it are executing the required software you can now examine the system from a holistic perspective for vulnerabilities. In particular, we examining the attack surface for a system you should ask the following questions:
+Once you have programmed the SPC560P board so that it is executing the required software you can now examine the system from a holistic perspective for vulnerabilities. In particular, we examining the attack surface for a system you should ask the following questions:
 
 * Does the hardware contain any
     * Data access ports such as USB, CAN, LIN and Ethernet and are these data ports used.
