@@ -23,8 +23,10 @@ Once you have connect all the hardware components together you should run the J-
 Once the J-Link command software is up and running then you can use the following commands to explore the SPC560P Development board
 
 * HALT - This stops/halts the execution of the CPU.
-* JJ
-* **
+* REGS - Display the status of the registers
+* STEP - Step through the program one instruction at a time
+* MEM - Display the contents of memory
+* SAVEBIN - Save the contents of a block of memory to a file.
 
 For the purposes of this exercise you should endeavour to perform the following functions:
 
