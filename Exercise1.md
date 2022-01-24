@@ -40,7 +40,7 @@ C:\SPC5Studio-6.0\workspace\SPC560Pxx_RLA SERIAL Test Application for Discover\U
 ```
 For the purposes of this Exercise download and open the following project SPC5 Studio and the Universal Debug Engine (UDE)
 
-* [Exercise1](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE1.zip)
+* [SPC560Pxx_RLA SERIAL Test Application for Discover](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE1.zip)
 
 Once you have download and open this file in SPC5 Studio then you should get the following:
 
