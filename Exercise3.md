@@ -5,11 +5,18 @@ The goal of this exercise is to develop an understanding of JTAG and using JTAG 
 * [Segger J-Link Software](https://www.segger.com/downloads/jlink/)
 * [Segger J-Link Hardware](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu/)
 
-To start this exercise you will need to download and install the [Segger J-Link Software](https://www.segger.com/downloads/jlink/) on your laptop. To start this exercise you will need to connect the SPC560P-DISP development board to the PC, the Segger J-Link Hardware to your Laptop and the Segger J-Link Hardware to the SPC560P-DISP development board as Shown Below.
+To start this exercise you will need to download and install the [Segger J-Link Software](https://www.segger.com/downloads/jlink/) on your laptop. To start this exercise you will need to connect the SPC560P-DISP development board to the power supply and turn the board on. Then you will need to connect the Segger J-Link Hardware to your Laptop and the Segger J-Link Hardware to the SPC560P-DISP development board via a JTAG connection. When connecting the the SPC560P Development Board to the J-Link please remember to:
 
-![SPC560P](2520506-40.jpg)
+* Connect GND on the SPC560P Development Board to GND on the J-Link (This is so we can measure digital Zero)
+* Connect VCC on the SPC560P Development Board to VREF on the J-Link (This is so we can measure digital One)
+* On the SPC560P Development Board remember to use the X2 JTAG interface
 
-Once you have connect all the hardware components together you should run the J-Link software on your laptop.
+You can identify the Pin-Outs on the SPC560P Development Board and the pin-outs on the J-Link via the following:
+
+* [SPC560P Development Board - JTAG Pin Outs](2520506-40.jpg)
+* [J-Link - JTAG Pin Out]()
+
+Once you have connect all the hardware components together you should run the J-Link software on your laptop. When running the J-Link software you will need to use the connect command to configure the J-Link software/hardware. When using the conned command you will need to specify the CPU type (SPC560P50) and then just select the default options.  
 
 ## Directed Reading.
 
