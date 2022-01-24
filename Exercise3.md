@@ -13,7 +13,7 @@ To start this exercise you will need to download and install the [Segger J-Link 
 
 You can identify the Pin-Outs on the SPC560P Development Board and the pin-outs on the J-Link via the following:
 
-* [SPC560P Development Board - JTAG Pin Outs](2520506-40.jpg)
+* [SPC560P Development Board - JTAG Pin Outs](2520506.jpg)
 * [J-Link - JTAG Pin Out]()
 
 Once you have connect all the hardware components together you should run the J-Link software on your laptop. When running the J-Link software you will need to use the connect command to configure the J-Link software/hardware. When using the conned command you will need to specify the CPU type (SPC560P50) and then just select the default options.  
