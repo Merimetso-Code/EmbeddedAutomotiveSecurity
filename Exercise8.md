@@ -51,7 +51,15 @@ if (can_lld_receive(&CAND1, 1, &rxmsg) == CAN_MSG_OK) {
 
 You should explore/debug the functions described above to create an understand of how the application behaves:
 
-*
+* What is that data that is passed to/from the 'can_lld_transmit' and 'can_lld_receive' functions?
+  * Where is the data stored and what happens when I modify this data?
+  * What does the stack look like when these functions are invoked?
+* What is that data that is passed to/from the 'compute' function?
+  * Where is the data stored and what happens when I modify this data?
+  * How can I modify the behaviour of the for loop used to invoke the 'compute' function?
+  * Within the function 'compute', what happens when I change the value of valB to 255?
+  * what happens if I modify the machine code so that when valB is equal to 0, then the value of valB is set to 1024?
+  * What does the stack look like when these functions are invoked?
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
