@@ -4,7 +4,7 @@ The goal of this exercise is to analyse the source code of an application and de
 
 * [Application Source Code for SPC560P Development Board]()
 
-Using source analysis you would identify a set of possible vulnerabilities and then using the GNU Debugger within the S32 Design Studio and Radare2/Cutter you should validate the vulnerabilities and develop appropriate exploit code.
+Using source analysis you would identify a set of possible vulnerabilities and then using the Universal Debugger Engine (UDE), SPC5 Studio and Radare2/Cutter you should validate the vulnerabilities and develop appropriate exploit code.
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
