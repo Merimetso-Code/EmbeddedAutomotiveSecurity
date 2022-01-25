@@ -32,7 +32,7 @@ int compute(int valA, int valB) {
 In the 'main' function the compute function is used within a for loop.
 
 ```c
-for(counter=0; counter < MAXCOUNT; counter++) {
+for(counter=0; counter > MAXCOUNT; counter++) {
   dataA = compute(dataA, dataB);
 }
 ```
