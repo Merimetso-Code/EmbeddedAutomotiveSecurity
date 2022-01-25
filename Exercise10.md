@@ -4,7 +4,12 @@ The goal of this exercise is to analyse the source code of an application and de
 
 * [Application Source Code for SPC560P Development Board](https://github.com/Merimetso-Code/EmbeddedAutomotiveSecurity/blob/main/EXERCISE10.zip)
 
-Using source analysis you would identify a set of possible vulnerabilities and then using the Universal Debugger Engine (UDE), SPC5 Studio and Radare2/Cutter you should validate the vulnerabilities and develop appropriate exploit code.
+Using source analysis you would identify a set of possible vulnerabilities and then using the Universal Debugger Engine (UDE), SPC5 Studio and Radare2/Cutter you should validate the vulnerabilities and develop appropriate exploit code. You should use the revere engineering tools to explore the following:
+
+* The sections of the ELF binary used to store global data.
+* The role that global variables play with various functions.
+* What functions make use of global variables?
+* How vulnerability can be exploited through the manipulation data on the stack.
 
 # Tips and Hints
 Information and help on programming in C can be found on the following links:
